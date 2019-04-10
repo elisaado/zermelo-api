@@ -1,0 +1,13 @@
+{
+  "name": "zermelo-api",
+  "version": "0.0.1",
+  "description": "An unofficial Node.js implementation of the Zermelo API",
+  "main": "index.js",
+  "repository": "https://github.com/elisaado/zermelo-api",
+  "author": "Eli Saado <eli5saado@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
